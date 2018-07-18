@@ -1,0 +1,7 @@
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\obj\Debug\ExamenTorres2.csprojAssemblyReference.cache
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\obj\Debug\ExamenTorres2.csproj.CoreCompileInputs.cache
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\bin\Debug\ExamenTorres2.exe.config
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\bin\Debug\ExamenTorres2.exe
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\bin\Debug\ExamenTorres2.pdb
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\obj\Debug\ExamenTorres2.exe
+C:\Users\AREVALO0517\source\repos\ExamenTorres2\ExamenTorres2\obj\Debug\ExamenTorres2.pdb
